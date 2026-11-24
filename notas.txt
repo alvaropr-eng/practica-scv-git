@@ -1,1 +1,1 @@
-"Texto desde main" 
+"Texto combinado main y rama-2" 
